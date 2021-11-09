@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/food-app/static/css/main.59fe880e.chunk.css",
+    "main.js": "/food-app/static/js/main.b20ba288.chunk.js",
+    "main.js.map": "/food-app/static/js/main.b20ba288.chunk.js.map",
+    "runtime-main.js": "/food-app/static/js/runtime-main.2d792f08.js",
+    "runtime-main.js.map": "/food-app/static/js/runtime-main.2d792f08.js.map",
+    "static/css/2.ac5db9fa.chunk.css": "/food-app/static/css/2.ac5db9fa.chunk.css",
+    "static/js/2.541b03a6.chunk.js": "/food-app/static/js/2.541b03a6.chunk.js",
+    "static/js/2.541b03a6.chunk.js.map": "/food-app/static/js/2.541b03a6.chunk.js.map",
+    "index.html": "/food-app/index.html",
+    "static/css/2.ac5db9fa.chunk.css.map": "/food-app/static/css/2.ac5db9fa.chunk.css.map",
+    "static/css/main.59fe880e.chunk.css.map": "/food-app/static/css/main.59fe880e.chunk.css.map",
+    "static/js/2.541b03a6.chunk.js.LICENSE.txt": "/food-app/static/js/2.541b03a6.chunk.js.LICENSE.txt",
+    "static/media/about-img.png": "/food-app/static/media/about-img.622e297d.png",
+    "static/media/burgerIcon.5168f4ea.svg": "/food-app/static/media/burgerIcon.5168f4ea.svg",
+    "static/media/chickenIcon.00642d18.svg": "/food-app/static/media/chickenIcon.00642d18.svg",
+    "static/media/comboIcon.9ab55b99.svg": "/food-app/static/media/comboIcon.9ab55b99.svg",
+    "static/media/dessertIcon.cce100d9.svg": "/food-app/static/media/dessertIcon.cce100d9.svg",
+    "static/media/drinkIcon.947ad592.svg": "/food-app/static/media/drinkIcon.947ad592.svg",
+    "static/media/emptyImg.jpg": "/food-app/static/media/emptyImg.f192f498.jpg",
+    "static/media/movil-app.png": "/food-app/static/media/movil-app.7d08b404.png",
+    "static/media/pic-1.png": "/food-app/static/media/pic-1.3304a306.png",
+    "static/media/pic-3.png": "/food-app/static/media/pic-3.7ecc2753.png",
+    "static/media/pizzaIcon.52f38991.svg": "/food-app/static/media/pizzaIcon.52f38991.svg",
+    "static/media/main.css": "/food-app/static/media/testimonialsBg.a111e21a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d792f08.js",
+    "static/css/2.ac5db9fa.chunk.css",
+    "static/js/2.541b03a6.chunk.js",
+    "static/css/main.59fe880e.chunk.css",
+    "static/js/main.b20ba288.chunk.js"
+  ]
+}
